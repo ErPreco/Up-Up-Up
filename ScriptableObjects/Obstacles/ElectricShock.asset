@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be2f9af24726322428b4f1729a354f43, type: 3}
+  m_Name: ElectricShock
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6315760956046140541, guid: b3395e25278ddc54f8ef785c183826ad, type: 3}
+  startHeight: 500
+  sameTypeSpawnThreshold: 30
+  rarity: 0
+  caption: A slight jolt that stuns you for a few seconds, it's not deadly :)
+  icon: {fileID: 21300000, guid: 27755821528aa0a42bf2c003c4340aab, type: 3}

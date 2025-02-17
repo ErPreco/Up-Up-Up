@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8116b75fafa5374c8009e9d3e5c78b3, type: 3}
+  m_Name: Spinner
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 4560918574399336060, guid: bc7de8af2be88c74cbc625b484af0afd, type: 3}
+  maxTilt: 0
+  isHelper: 0
+  startHeight: 0
+  sameTypeSpawnThreshold: 0
+  rarity: 0
+  caption: A machine that spins endlessly, but only counterclockwise
+  icon: {fileID: 21300000, guid: 8bf11cc902e87004e83835b0544f3884, type: 3}
